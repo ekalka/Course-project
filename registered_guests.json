@@ -1,0 +1,45 @@
+{
+    "users": [
+        {
+            "event_ids": [
+                "67bdfbf2-839e-45d1-bf51-3248629266fb",
+                "d71c2cbd-8567-455f-a469-76ce17faa8dd"
+            ],
+            "user_name": "hchjhc",
+            "user_email": "hchjhc",
+            "user_phone": "hchjhc"
+        },
+        {
+            "event_ids": [
+                "3171b94e-7003-4441-9c42-a82982bba0be"
+            ],
+            "user_name": "dwaad",
+            "user_email": "dwaad",
+            "user_phone": "dwaad"
+        },
+        {
+            "event_ids": [
+                "67bdfbf2-839e-45d1-bf51-3248629266fb"
+            ],
+            "user_name": "\u0418\u0432\u0430\u043d\u043e\u0432 \u041c\u0438\u0445\u0430\u0438\u043b",
+            "user_email": "\u0418\u0432\u0430\u043d\u043e\u0432 \u041c\u0438\u0445\u0430\u0438\u043b",
+            "user_phone": "\u0418\u0432\u0430\u043d\u043e\u0432 \u041c\u0438\u0445\u0430\u0438\u043b"
+        },
+        {
+            "event_ids": [
+                "67bdfbf2-839e-45d1-bf51-3248629266fb"
+            ],
+            "user_name": "\u0444\u0432\u044b\u044b\u0444\u0432",
+            "user_email": "\u0444\u0432\u044b\u044b\u0444\u0432",
+            "user_phone": "\u0444\u0432\u044b\u044b\u0444\u0432"
+        },
+        {
+            "event_ids": [
+                "abbad926-f4a4-4609-8890-5fce32e6192b"
+            ],
+            "user_name": "\u044f\u044b\u0432\u0432",
+            "user_email": "\u044f\u044b\u0432\u0432",
+            "user_phone": "\u044f\u044b\u0432\u0432"
+        }
+    ]
+}
